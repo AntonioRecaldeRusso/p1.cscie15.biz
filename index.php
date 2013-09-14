@@ -1,33 +1,40 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-	"http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 	<head>
 		<title>CSCI E-15 Project 1</title>
-		<style>
-			body, html	{background-image: url(http://images2.layoutsparks.com/1/205492/jess-addiction-plain-simple.jpg); height: 100%;}
-			#wrapper{width: 60%; margin-left: auto; margin-right: auto; background-color: WHITE; height: 99%}
-			h1		{text-align: center;}
-
-			.about 	{font-size: 18px;}
+		<style type="text/css">
+			html 			{background: url(http://www.hdwallpapersinn.com/wp-content/uploads/2012/07/52630.jpg) no-repeat center center fixed; 
+							background-size: cover;} 
+			h1				{text-align: center;}
+			#wrapper		{width: 50%; margin-left: auto; margin-right: auto; margin-top: 5%; background-color: WHITE; border-style: groove; border-width: thick; }
+			#content		{margin-left: 1.5em; margin-right: 1.5em;}
+			#validation		{width: 17%; margin-left: auto; margin-right: auto; margin-top: 5%;}
+			#validation p 	{margin-left: 0px; margin-right: 0px; text-align: center;}
+			.about 			{font-size: 18px;}
 
 
 		</style>
 	</head>
 	<body>
 	<div id="wrapper">
-		<h1>CSCI E-15 Project 1</h1>
-		<p>
-			<div><h2>Name: Antonio Recalde</h2></div>
-			<div class="about">	<strong>About:</strong></br>
-					Hello there. I'm delighted to be part of this course. This is the fourth course I'm taking with with Harvard's Extension Program.</br>
-					I have experience with C, C++, Java, Python. But, I would say I'm new to Web Development.</br>
-					Some of my hobbies are: Tennis, Chess, Philosophy (I have actually produced a very respectable theory about the origin of morality. Still unpublished), Soccer, Video Games.
+		<div id="content">
+			<h1>CSCI E-15 Project 1</h1>
+			<hr>
+			<h2>Name: Antonio Recalde</h2>
+			<div class="about">	<p><strong>About:</strong><br/>
+					Hello there. I'm delighted to be part of this course. This is the fourth course I'm taking with with Harvard's Extension Program.<br/>
+					I have experience with C, C++, Java, Python. But, I would say I'm new to Web Development.<br/>
+					Some of my hobbies are: Tennis, Chess, Philosophy (I have actually produced a very respectable theory about the origin of morality. Still unpublished), Soccer, Video Games. </p>
 			</div>
-		</p>
-		<p>
-			I'm using <strong>Sublime Text 2</strong>.
-		</p>
-
-		</table>
+			<p>I'm using <strong>Sublime Text 2</strong>.</p>
+		</div>
 	</div>
+
+	<div id="validation">
+		<p>
+			<a href="http://css-validator.org/check/referer"> <img style="border:0;width:88px;height:31px" src="http://css-validator.org/images/vcss-blue.png" alt="Valid CSS!" /></a>
+			<a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
+		</p>
+	</div>
+
 	</body>
 </html>
