@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 	<head>
+		<meta charset=utf-8 />
 		<title>CSCI E-15 Project 1</title>
 		<style type="text/css">
-			html 			{background: url(http://www.hdwallpapersinn.com/wp-content/uploads/2012/07/52630.jpg) no-repeat center center fixed; 
-							background-size: cover;} 
+			html 			{background: url(http://www.hdwallpapersinn.com/wp-content/uploads/2012/07/52630.jpg) no-repeat center center fixed; background-size: cover;} 
 			h1				{text-align: center;}
 			#wrapper		{width: 50%; margin-left: auto; margin-right: auto; margin-top: 5%; background-color: WHITE; border-style: groove; border-width: thick; }
 			#content		{margin-left: 1.5em; margin-right: 1.5em;}
@@ -15,8 +15,8 @@
 		</style>
 	</head>
 	<body>
-	<div id="wrapper">
-		<div id="content">
+	<div id="wrapper">		<!-- The wrapper sets the width of the content area -->
+		<div id="content">	<!-- Used to set the margin of the actual content inside the wrapper -->
 			<h1>CSCI E-15 Project 1</h1>
 			<hr>
 			<h2>Name: Antonio Recalde</h2>
