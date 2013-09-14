@@ -31,8 +31,8 @@
 
 	<div id="validation">
 		<p>
-			<a href="http://css-validator.org/check/referer"> <img style="border:0;width:88px;height:31px" src="http://css-validator.org/images/vcss-blue.png" alt="Valid CSS!" /></a>
-			<a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
+			<a href="http://jigsaw.w3.org/css-validator/check/referer"> <img style="border:0;width:88px;height:31px" src="http://css-validator.org/images/vcss-blue.png" alt="Valid CSS!" /></a>
+			<a href="http://validator.w3.org/check?uri=http%3A%2F%2Fp1.cscie15.biz%2F;ss=1"><img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
 		</p>
 	</div>
 
