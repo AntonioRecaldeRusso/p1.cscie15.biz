@@ -3,7 +3,7 @@
 		<meta charset=utf-8 />
 		<title>CSCI E-15 Project 1</title>
 		<style type="text/css">
-			html 			{background: url(http://www.hdwallpapersinn.com/wp-content/uploads/2012/07/52630.jpg) no-repeat center center fixed; background-size: cover;} 
+			html 			{background: url(http://fc09.deviantart.net/fs71/i/2010/264/b/f/simple_wallpaper_02_by_poxel-d2z6ojz.jpg) no-repeat center center fixed; background-size: cover;} 
 			h1				{text-align: center;}
 			#wrapper		{width: 50%; margin-left: auto; margin-right: auto; margin-top: 5%; background-color: WHITE; border-style: groove; border-width: thick; }
 			#content		{margin-left: 1.5em; margin-right: 1.5em;}
@@ -31,8 +31,8 @@
 
 	<div id="validation">
 		<p>
-			<a href="http://jigsaw.w3.org/css-validator/check/referer"> <img style="border:0;width:88px;height:31px" src="http://css-validator.org/images/vcss-blue.png" alt="Valid CSS!" /></a>
-			<a href="http://validator.w3.org/check?uri=http%3A%2F%2Fp1.cscie15.biz%2F;ss=1"><img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
+			<a href="http://validator.w3.org/check?uri=http%3A%2F%2Fp1.cscie15.biz%2F;ss=1"><img src="http://www.w3.org/html/logo/downloads/HTML5_Logo_64.png" alt="Valid HTML5!"></a>
+			<a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fp1.cscie15.biz%2F"> <img src="http://www.digi-solution.com/static/themes/digi_theme/appweb/images/thumbnails/css3_logo.png" alt="Valid CSS!" /></a>
 		</p>
 	</div>
 
