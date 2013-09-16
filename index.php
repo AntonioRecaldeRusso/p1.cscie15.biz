@@ -5,7 +5,7 @@
 		<style type="text/css">
 			html 			{background: url(http://fc09.deviantart.net/fs71/i/2010/264/b/f/simple_wallpaper_02_by_poxel-d2z6ojz.jpg) no-repeat center center fixed; background-size: cover;} 
 			h1				{text-align: center;}
-			#wrapper		{width: 50%; margin-left: auto; margin-right: auto; margin-top: 5%; background-color: WHITE; border-style: groove; border-width: thick; }
+			#wrapper		{width: 50%; margin-left: auto; margin-right: auto; margin-top: 5%; background-color: WHITE; border-style: groove; border-width: thick; border-radius: 2.5em;}
 			#content		{margin-left: 1.5em; margin-right: 1.5em;}
 			#validation		{width: 17%; margin-left: auto; margin-right: auto; margin-top: 5%;}
 			#validation p 	{margin-left: 0px; margin-right: 0px; text-align: center;}
